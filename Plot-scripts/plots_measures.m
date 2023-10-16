@@ -12,8 +12,9 @@ ylim([0 max(qem/trapz(Xs, qem))]);
 xlim([0.1 1]);
 xticks([0.25 0.5 0.75 1]);
 set(gca,'XTickLabel',[0.25 0.5 0.75 1], 'FontSize', 30);
-title('quasi-ergodic density, $q$ ($\varepsilon =$ ' + string(eps) + ')',...
-            'Interpreter', 'latex', 'FontSize', 30);
+set(gca,'TickLabelInterpreter','latex');
+% title('quasi-ergodic density, $q$ ($\varepsilon =$ ' + string(eps) + ')',...
+%             'Interpreter', 'latex', 'FontSize', 30);
 
 clf(figure(2));                                 
 figure(2);
@@ -23,7 +24,9 @@ ylim([0 max(qsm/trapz(Xs, qsm))]);
 xlim([0.1 1]);
 xticks([0.25 0.5 0.75 1]);
 set(gca,'XTickLabel',[0.25 0.5 0.75 1], 'FontSize', 30);
-title('quasi-stationary density, $m$ ($\varepsilon =$ ' + string(eps) + ')', 'Interpreter', 'latex', 'FontSize', 30);
+set(gca,'TickLabelInterpreter','latex');
+% title('quasi-stationary density, $m$ ($\varepsilon =$ ' + string(eps) +...
+%     ')', 'Interpreter', 'latex', 'FontSize', 30);
  
 clf(figure(3));                                 
 figure(3);
@@ -33,8 +36,9 @@ ylim([0 max(ev_cond_right/trapz(Xs, ev_cond_right))]);
 xlim([0.1 1]);
 xticks([0.25 0.5 0.75 1]);
 set(gca,'XTickLabel',[0.25 0.5 0.75 1], 'FontSize', 30);
-title('right-eigenfunction, $v$ ($\varepsilon =$ ' + string(eps) + ')',...
-                'Interpreter', 'latex', 'FontSize', 30);
+set(gca,'TickLabelInterpreter','latex');
+% title('right-eigenfunction, $v$ ($\varepsilon =$ ' + string(eps) + ')',...
+%                  'Interpreter', 'latex', 'FontSize', 30);
 
 
 % Uncomment if you want to plot the statinoary density
@@ -47,6 +51,7 @@ title('right-eigenfunction, $v$ ($\varepsilon =$ ' + string(eps) + ')',...
 % xlim([0.1 1]);
 % xticks([0.25 0.5 0.75 1]);
 % set(gca,'XTickLabel',[0.25 0.5 0.75 1], 'FontSize', 30);
+% set(gca,'TickLabelInterpreter','latex');
 % legend('p', 'Fontsize', 15);
 
 
@@ -64,5 +69,6 @@ title('right-eigenfunction, $v$ ($\varepsilon =$ ' + string(eps) + ')',...
 % xlim([0.1 1]);
 % xticks([0.25 0.5 0.75 1]);
 % set(gca,'XTickLabel',[0.25 0.5 0.75 1], 'FontSize', 30);
+% set(gca,'TickLabelInterpreter','latex');
 % legend('QEM', 'QSM', '$\nu(x)$', '$M_\mathrm{exp}$',...
 %           '$M_\mathrm{cont}$', 'Interpreter', 'latex', 'Fontsize', 15);
