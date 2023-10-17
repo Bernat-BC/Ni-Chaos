@@ -35,7 +35,7 @@ https://arxiv.org/abs/2308.07116
 To reproduce the study, you will need the following:
 
 - MATLAB R2023b (or later)
-- GAIO for matlab, see https://github.com/gaioguy/GAIO.git (this is included in ``Data-scripts'' when cloning this repository)
+- GAIO for matlab, see https://github.com/gaioguy/GAIO.git (this is included in `Data-scripts` when cloning this repository)
 
 
 ## Installation
