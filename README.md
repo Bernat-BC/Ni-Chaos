@@ -86,7 +86,7 @@ This folder contains the relevant scripts to produce plots.
 
 These can be run after importing their respective workspace (see below) or after generating the data by running the scripts in `Data scripts`.
 
-### Worspaces
+### Workspaces
 
 This folder contains the worksapces with the exact data plotted in the paper. 
 
