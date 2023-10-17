@@ -1,5 +1,15 @@
 # Noise-induced chaos: a conditioned random dynamics perpsective
 
+Bernat Bassols-Cornudella<sup>1</sup> and Jeroen S.W. Lamb<sup>1,2,3</sup>
+
+## Affiliations
+<sup>1</sup> Department of Mathematics, Imperial College London, London SW7 2AZ, UK (1 and 2)
+
+<sup>2</sup> International Research Center for Neurointelligence, The University of Tokyo, Tokyo 113-0033, Japan (2)
+
+<sup>3</sup> Centre for Applied Mathematics and Bioinformatics, Department of Mathematics and Natural Sciences, Gulf University for Science and Technology, Halwally 32093, Kuwait (2)
+
+
 ## Overview
 
 This repository contains the code and data necessary to reproduce the results of the paper titled "Noise-induced chaos: a conditioned random dynamics perpsective." The paper's data was obtained using MATLAB 2023b, and this README provides step-by-step instructions to replicate the study.
