@@ -32,10 +32,10 @@ https://arxiv.org/abs/2308.07116
 
 ## Requirements
 
-To reproduce the study, you'll need the following:
+To reproduce the study, you will need the following:
 
-- MATLAB 2023b
-- GAIO for matlab, see https://github.com/gaioguy/GAIO.git
+- MATLAB R2023b (or later)
+- GAIO for matlab, see https://github.com/gaioguy/GAIO.git (this is included in ``Data scripts'' when cloning this repository)
 
 
 ## Installation
@@ -101,7 +101,7 @@ This project is licensed under the GNU GENERAL PUBLIC LICENSE version 3 - see th
 
 ## Contact
 
-Feel free to send me an [email](bernat.bassols-cornudella20@imperial.ac.uk) with any questions or comments!
+Feel free to send me an [email](bernat.bassols-cornudella20@imperial.ac.uk) with any questions or comments.
 
 ## Acknowledgements
 
