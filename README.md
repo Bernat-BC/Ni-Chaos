@@ -35,7 +35,7 @@ https://arxiv.org/abs/2308.07116
 To reproduce the study, you will need the following:
 
 - MATLAB R2023b (or later)
-- GAIO for matlab, see https://github.com/gaioguy/GAIO.git (this is included in ``Data scripts'' when cloning this repository)
+- GAIO for matlab, see https://github.com/gaioguy/GAIO.git (this is included in ``Data-scripts'' when cloning this repository)
 
 
 ## Installation
@@ -67,7 +67,7 @@ This repository is structured as follows:
     └── data_00125_depth14_ws.mat
 ```
 
-### Data scripts
+### Data-scripts
 
 This folder contains the relevant scripts to generate data.
 
@@ -84,7 +84,7 @@ This folder contains the relevant scripts to produce plots.
 1. `plots_eD_eL.m` produces Figure 3, 4 and 6.
 2. `plots_measures.m` produces Figure 5.
 
-These can be run after importing their respective workspace (see below) or after generating the data by running the scripts in `Data scripts`.
+These can be run after importing their respective workspace (see below) or after generating the data by running the scripts in `Data-scripts`.
 
 ### Workspaces
 
