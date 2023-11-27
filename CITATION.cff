@@ -1,11 +1,12 @@
 cff-version: 1.1.2
-message: "If you use this code or the data for your research, please consider citing the original paper:"
+message: "If you use this code or the data for your research, please consider citing the original paper: https://arxiv.org/abs/2308.07116
+"
 authors:
   - family-names: Bassols-Cornudella
     given-names: Bernat
     orcid: https://orcid.org/0000-0001-6620-6739
   - family-names: Lamb
-    given-names: Jeroen S.W.
+    given-names: Jeroen {S.W.}
     orcid: https://orcid.org/0000-0001-7647-4200
 title: "Noise-induced chaos: A conditioned random dynamics perspective"
 version: 1.0.0
