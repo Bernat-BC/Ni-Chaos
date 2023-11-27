@@ -1,4 +1,4 @@
-# Noise-induced chaos: a conditioned random dynamics perpsective
+# Noise-induced chaos: a conditioned random dynamics perspective
 
 Bernat Bassols-Cornudella<sup>1</sup> and Jeroen S.W. Lamb<sup>1,2,3</sup>
 
@@ -12,11 +12,13 @@ Bernat Bassols-Cornudella<sup>1</sup> and Jeroen S.W. Lamb<sup>1,2,3</sup>
 
 ## Overview
 
-This repository contains the code and data necessary to reproduce the results of the paper titled "Noise-induced chaos: a conditioned random dynamics perpsective." The paper's data was obtained using MATLAB 2023b, and this README provides step-by-step instructions to replicate the study.
+This repository contains the code and data necessary to reproduce the results of the paper titled "Noise-induced chaos: a conditioned random dynamics perspective." The paper's data was obtained using MATLAB 2023b, and this README provides step-by-step instructions to replicate the study.
 
 ## Paper Citation
 
 If you use this code or the data for your research, please consider citing the original paper: 
+
+[![DOI](https://zenodo.org/badge/703998819.svg)](https://zenodo.org/doi/10.5281/zenodo.10209879)
 
 https://arxiv.org/abs/2308.07116
 
