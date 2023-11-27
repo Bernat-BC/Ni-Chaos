@@ -18,6 +18,8 @@ This repository contains the code and data necessary to reproduce the results of
 
 If you use this code or the data for your research, please consider citing the original paper: 
 
+[![DOI](https://zenodo.org/badge/703998819.svg)](https://zenodo.org/doi/10.5281/zenodo.10209879)
+
 https://arxiv.org/abs/2308.07116
 
 
